@@ -1,2 +1,14 @@
-# Masterschool-store
-This corresponds to final exercise of sprint SE105.2 
+# Masterschool  Store
+This app its an online Store that allows user to make its own order of products,
+insert, edit or delete products
+
+It also allows Promotions in choosen products as well as products that are not 
+elibible to have a limited store
+
+This app used Object Oriented Programming in Phython 
+
+Technologies used:
+Python, Flask
+
+
+To make it work simply activate main.py file in a Python evironment
